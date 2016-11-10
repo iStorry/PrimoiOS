@@ -12,7 +12,7 @@ class Primo
 
 	protected $char = ['1', '2', '3', '4', '5', '6', '7', '0'];
 	protected $varchar = ['C', 'F', 'E', 'A', 'B', 'D'];
-	protected $uuid = "C52F3E74-40F5-48A4-B0C6-DE827ED535A0";
+	protected $uuid = "C12F3E74-40F2-45A7-B7C6-DE427ED235A0";
 	protected
 	function useragent()
 	{
