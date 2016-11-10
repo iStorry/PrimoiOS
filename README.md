@@ -17,5 +17,5 @@
   
        require_once __DIR__ . "/Primo.php";
        $app = new Primo();
-       echo $app->singup();
+       echo $app->signup();
 ```
